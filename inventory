@@ -1,3 +1,10 @@
+[web_servers]
 ubuntu@18.117.80.180
+
+[db_servers]
 ubuntu@3.15.191.106
+
+[file_servers]
 ubuntu@18.217.29.252
+
+# ubuntu@185.5.55.145
